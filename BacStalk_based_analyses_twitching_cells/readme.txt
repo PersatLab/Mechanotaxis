@@ -7,11 +7,14 @@ Processing pipeline for various analyses of twitching cells, based on segmentati
 	b) for phase contrast and fluorescence image sequences
 		1. split_image.ijm
 
-2. Run basic analysis with a custom MATLAB code that uses a slightly modified version of Bacstalk (R. Hartmann, M. C. F. van Teeseling, M. Thanbichler, K. Drescher, Molecular Microbiology 114, 2020)
+2. Run basic analysis with a custom MATLAB code that uses a slightly modified version of Bacstalk (Hartmann, R., van Teeseling, M. C. F., Thanbichler, M. & Drescher, K. BacStalk: a comprehensive and interactive image analysis software tool for bacterial cell biology. Molecular Microbiology (2020). doi:10.1111/mmi.14501)
+	1. install original BacStalk distibution version 1.8 (https://drescherlab.org/data/bacstalk/docs/)
+	2. copy/replace files with files found in BacStalk_modified folder
+	3. rename folder to "BacStalk_modified"
 	a) for phase contrast image sequences
-		1. Basic_analysis_phase_contrast_only.m
+		4. run Basic_analysis_phase_contrast_only.m
 	b) for phase contrast and fluorescence image sequences
-		1. Basic_analysis_fluorescence.m
+		4. run Basic_analysis_fluorescence.m
 
 3. To check segmentation and tracking (and for fluorescence the fit of the determined polar regions) individual images printed by MATLAB can be combined using: 
 	1. video_maker.ijm

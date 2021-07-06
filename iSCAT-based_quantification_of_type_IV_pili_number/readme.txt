@@ -9,6 +9,6 @@ To process and isolate iSCAT signal from the raw movies, dowload the iSCATImageP
 	
 	NB: Raw iSCAT data is not found in this respository but can be asked to the corresponding author
 	
-To analyze and plot our results of Figure S1D, please use the following Matlab script:
+To analyze and plot our results of Figure S1D, please unzip "Chp-cAMP_experiments_summary.zip" and place "Chp-cAMP_experiments_summary.xlsx" in the data folder. Then use the following Matlab script:
 
 	1. ChpMutantPiliCount.m

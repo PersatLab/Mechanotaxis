@@ -7,7 +7,7 @@ To process and isolate iSCAT signal from the raw movies, dowload the iSCATImageP
 	   images.
 	3. Pili counts were recorded into an Excel file (found in the "data" folder)
 	
-	NB: Raw iSCAT data is not found in this respository.
+	NB: Raw iSCAT data is not found in this respository but can be asked to the corresponding author
 	
 To analyze and plot our results of Figure S1D, please use the following Matlab script:
 

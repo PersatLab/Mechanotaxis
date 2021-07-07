@@ -1,0 +1,1 @@
+To plot the data of Figure S13 please use the graph_reversal_dynamics.m MATLAB script

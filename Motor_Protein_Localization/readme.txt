@@ -2,7 +2,7 @@ In order to extract information on fluorescence profiles from your images please
 
 	1. Fliter and process your images with the fiji macro located in ImageProcessing/nd2Batch2Ch.ijm
 
-	2. Upload your processed images in Bacstalk and select the right parameters to get as many single cells
+	2. Upload your processed images in BacStalk and select the right parameters to get as many single cells
 	detected as possible. And save a mat file containing all the extracted features.
 
 	

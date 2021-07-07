@@ -6,5 +6,5 @@ In order to extract information on fluorescence profiles from your images please
 	detected as possible. And save a mat file containing all the extracted features.
 
 	
-To analyze and plot our results of Figure 5C-H and 6BC, use the following code
+To analyze and plot our results of Figure 5C-H, 6BC and S9, use the following code
 	1. ImageAnalysis/MotorLocalizationScript.m
